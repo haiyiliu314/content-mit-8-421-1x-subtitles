@@ -17,7 +17,7 @@ And these are rotating systems.
 So a system which rotates, well what do you think,
 will it behave using the discussion we
 just, more a classical system or more
-like a kind of mechanical system?
+like a quantum mechanical system?
 
 Of course, I gave you a very special definition
 what brings out quantum mechanics in a system.
@@ -54,7 +54,7 @@ and the excitation spectrum would not be bound.
 So I think I have to rephrase the question the next time I
 teach the class, I wanted to ask you here
 about a special rotating system, which
-was a processing gyroscope.
+was a precessing gyroscope.
 So rotating system, if you think about, processing gyroscope,
 it has a bound
 on the amplitude it can be excited.
@@ -72,7 +72,7 @@ And if angular momentum, magnetic moments, it
 all come into play, we have the physics of classical rotation.
 But the excitation spectrum here is limited,
 because you can flip a compass needle
-and this is a [? maximum ?] excitation.
+and this is a maximum excitation.
 When the North Pole points in the opposite direction, that's
 the maximum excitation you can give it.
 So therefore, it has a limited amplitude of its excitation,
